@@ -1,7 +1,11 @@
 .odd-number {
     background-color: #ff7f50;
-    font-family: "Verdana", "DeJavu Sans", sans-serif;
+    font-family: Verdana, "DeJavu Sans", sans-serif;
 
+}
+
+.three {
+    font-size: 24px;
 }
 
 #two {
@@ -9,12 +13,8 @@
     font-size: 36px;
 }
 
-.three {
-    font-size: 24px;
-}
-
 #four {
     background-color: #76cc76;
 font-size: 24px;
-font-weight: 700;
+font-weight: bold;
 }
